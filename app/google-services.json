@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534610400845",
+    "project_id": "crudrealtime-506f4",
+    "storage_bucket": "crudrealtime-506f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534610400845:android:b17201f3ad6fe9eab5ae04",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB451Xeovb7sETTKTRb_v6CeD8b-vj2g8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
